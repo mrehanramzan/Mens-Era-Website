@@ -32,5 +32,5 @@ To start:
 ## Authors
 
 - [@Rehan Ramzan](https://github.com/mrehanramzan)
-- [@Raja Haider ALi](https://github.com/rha12)
+- [@Raja Haider Ali](https://github.com/rha12)
 
